@@ -25,7 +25,7 @@ any other period specified by a resolution of the House of Representatives.
 
 (3)
 
-If not repealed sooner under subsection (1), this Act is repealed on the date that is 2 years after the date of its commencement.
+If not repealed sooner under subsection (1), this Act is repealed on the close of 13 May 2023.
 4 Purpose
 
 The purpose of this Act is to support a public health response to COVID-19 that—
@@ -59,6 +59,8 @@ In this Act, unless the context otherwise requires,—
 
 authorised person means a person authorised under section 18
 
+chief executive means the chief executive of the responsible agency
+
 Commissioner has the meaning given to it by section 4 of the Policing Act 2008
 
 constable has the meaning given to it by section 4 of the Policing Act 2008
@@ -83,11 +85,11 @@ a constable:
 
 in relation to any function or power, a person authorised to perform that function or power under section 18 or a person in a class of persons authorised to perform that function or power under section 18
 
+infringement fee, in relation to an infringement offence, means the infringement fee for the offence specified in section 26(4)(a) or prescribed by regulations
+
 infringement offence means an infringement offence against section 26(3)
 
 managed isolation or quarantine facility or MIQF means a facility that is designated by the New Zealand Government for use as a place of isolation or quarantine
-
-MBIE means the Ministry of Business, Innovation, and Employment
 
 Minister means the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
 
@@ -109,6 +111,11 @@ road has the meaning given to it by section 35(2) of the Policing Act 2008
 
 territorial authority has the meaning given to it by section 5(1) of the Local Government Act 2002.
 
+other place of isolation or quarantine means a place of isolation or quarantine designated by a COVID-19 order
+
+responsible agency means the department of the public service or agency or entity that, with the authority of the Prime Minister, is responsible for the administration of MIQFs
+
+room, in relation to an MIQF or other place of isolation or quarantine, means the area allocated to a person for the purpose of undertaking isolation or quarantine, including 1 or more rooms and any outdoor space such as a garden or balcony
 (2)
 
 Terms and expressions used and not defined in this Act, but defined in the Health Act 1956, have the same meanings as in the Health Act 1956.
@@ -205,7 +212,13 @@ Section 9(1)(c): replaced, on 8 December 2020, by section 5 of the COVID-19 Publ
 The Director-General may make a COVID-19 order that meets both of the following requirements:
 (a)
 
-the order may apply only within the boundaries of a single territorial authority district:
+the order may apply only within boundaries described in the order that—
+(i)
+
+are relevant to the circumstances addressed by the order; and
+(ii)
+
+are described in a practical way, whether by reference to roads, geographical features (such as rivers or ranges), or in any other way that enables the boundaries to be readily ascertained:
 (b)
 
 in the opinion of the Director-General, the order—
@@ -223,10 +236,10 @@ Section 10: amended, on 6 August 2020, by section 10 of the COVID-19 Public Heal
 
 (1)
 
-The Minister or Director-General may in accordance with section 9 or 10 (as the case may be) make an order under this section for 1 or more of the following purposes:
+The Minister or the Director-General may, in accordance with section 9 or 10 (as the case may be), make an order under this section for 1 or more of the following purposes:
 (a)
 
-to require persons to refrain from taking any specified actions that contribute or are likely to contribute to the risk of the outbreak or spread of COVID-19, or require persons to take any specified actions, or comply with any specified measures, that contribute or are likely to contribute to preventing the risk of the outbreak or spread of COVID-19, including (without limitation) requiring persons to do any of the following:
+to require persons to refrain from taking any specified actions that contribute or are likely to contribute to the risk of the outbreak or spread of COVID-19, or require persons to take any specified actions, or comply with any specified measures, that contribute or are likely to contribute to preventing, containing, reducing, controlling, managing, eliminating, or limiting the risk of the outbreak or spread of COVID-19, including (without limitation) requiring persons to do any of the following:
 (i)
 
 stay in any specified place or refrain from going to any specified place:
@@ -241,7 +254,7 @@ stay physically distant from any persons in any specified way:
 refrain from travelling to or from any specified area:
 (v)
 
-refrain from carrying out specified activities (for example, business activities involving close personal contact) or require specified activities to be carried out only in any specified way or in compliance with specified measures:
+refrain from carrying out specified activities (for example, business activities involving close personal contact) or carry out specified activities only in any specified way or in compliance with specified measures:
 (vi)
 
 be isolated or quarantined in any specified place or in any specified way:
@@ -259,30 +272,102 @@ provide, in specified circumstances or in any specified way, any information nec
 satisfy any specified criteria before entering New Zealand from a place outside New Zealand, which may include being registered to enter an MIQF on arrival in New Zealand:
 (b)
 
-in relation to any places, premises, crafts, vehicles, animals, or other things, to require specified actions to be taken, require compliance with any specified measures, or impose specified prohibitions that contribute or are likely to contribute to preventing the risk of the outbreak or spread of COVID-19, including (without limitation) any of the following:
+in relation to an MIQF or other place of isolation or quarantine, to require specified actions to be taken, or require compliance with any specified measures, for the purpose of managing the movement of people to, from, and within the MIQF or other place of isolation and quarantine, including (without limitation) any of the following:
 (i)
 
-require things to be closed or only open if specified measures are complied with:
+giving directions that relate to the movement of people to, from, and within the MIQF or other place of isolation or quarantine:
 (ii)
 
-prohibit things from entering any port or place, or permit the entry of things into any port or place only if specified measures are complied with:
+imposing restrictions and conditions that relate to the movement of people to, from, and within the MIQF or other place of isolation or quarantine:
 (iii)
 
-prohibit gatherings of any specified kind in any specified places or premises, or in any specified circumstances:
+permitting people to leave their rooms in the MIQF or other place of isolation or quarantine in accordance with any requirements or conditions specified in the order:
+(c)
+
+in relation to any places, premises, craft, vehicles, or other things, to require specified actions to be taken, require compliance with any specified measures, or impose specified prohibitions that contribute or are likely to contribute to preventing, containing, reducing, controlling, managing, eliminating, or limiting the risk of the outbreak or spread of COVID-19, including (without limitation) any of the following:
+(i)
+
+requiring any places, premises, craft, vehicles, or other things to be closed or only open if specified measures are complied with:
+(ii)
+
+prohibiting any craft, vehicles, or other things from entering any port or place, or permitting the entry of any craft, vehicles, or other things into any port or place only if specified measures are complied with:
+(iii)
+
+prohibiting gatherings of any specified kind in any specified places or premises, or in any specified circumstances:
 (iv)
 
-require things to be isolated, quarantined, or disinfected in any specified way or specified circumstances:
+requiring any places, premises, craft, vehicles, or other things to be isolated, quarantined, or disinfected in any specified way or specified circumstances:
 (v)
 
-require the testing of things in any specified way or specified circumstances.
+requiring the testing of any places, premises, craft, vehicles, or other things in any specified way or specified circumstances:
+(d)
+
+in relation to laboratories that undertake COVID-19 testing, by—
+(i)
+
+setting quality control measures and minimum standards:
+(ii)
+
+requiring COVID-19 test results to be reported to the Director-General’s public health national testing repository:
+(iii)
+
+managing the supply of testing consumables (such as reagents and swabs) used by the laboratories:
+(iv)
+
+providing differently for different classes of testing laboratories (for example, different provisions for laboratories depending on whether they are funded publicly or privately):
+(e)
+
+requiring the owner or any person in charge of a specified laboratory that undertakes COVID-19 testing to—
+(i)
+
+deliver or use, in accordance with directions given under the order, specified quantities of COVID-19 testing consumables that the Minister considers necessary for the purposes of the public health response to COVID-19:
+(ii)
+
+undertake COVID-19 testing solely for the purposes of the public health response to COVID-19 while subject to the order, whether or not the laboratory is contracted by the Crown for that purpose.
 
 (2)
 
-An order made by the Minister may specify which breaches of an order made by the Minister or the Director-General are infringement offences for the purposes of section 26(3).
+An order made by the Minister may specify which breaches of an order made by the Minister or the Director-General are infringement offences for the purposes of section 26(3), and may specify that a breach of an order is a particular class of infringement offence (with the corresponding penalties) for the purposes of regulations made under section 33(1)(b).
 
 (3)
 
-For the purpose of this section and section 12, things means any things mentioned in subsection (1)(b), including places, premises, ports, crafts, vehicles, and animals.
+For the purposes of this section and section 12, things includes animals, goods, businesses, records, equipment, and supplies.
+
+(4)
+
+All goods prohibited from import under a COVID-19 order are deemed to be included among goods prohibited from import under section 96 of the Customs and Excise Act 2018, and the provisions of that Act apply to those goods accordingly.
+
+(5)
+
+A COVID-19 order is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+(6)
+
+If a COVID-19 order authorises the Director-General or chief executive to do anything specified in section 12(1)(d) by notice,—
+(a)
+
+the notice is secondary legislation, unless it applies only to 1 or more named persons or things; and
+(b)
+
+the order must contain a statement to that effect.
+
+11A Compensation or payment relating to requisitions
+
+(1)
+
+This section applies if an order is made under section 11(1)(e).
+
+(2)
+
+The owner of a testing laboratory injuriously affected by the requisitioning of testing consumables is entitled to receive compensation from the Crown at the market rate for the consumables requisitioned.
+
+(3)
+
+The owner of a testing laboratory required to undertake COVID-19 testing solely for the purposes of the public health response to COVID-19 is entitled to be paid by the Crown for its services at the market rate for those services.
+
+(4)
+
+All questions and disputes relating to claims for compensation or payment under this section must be heard and determined by the District Court, whose decision is final.
 
 Section 11(1): amended, on 6 August 2020, by section 7(1) of the COVID-19 Public Health Response Amendment Act 2020 (2020 No 57).
 
@@ -296,16 +381,16 @@ Section 11(1)(a)(x): inserted, on 6 August 2020, by section 7(3) of the COVID-19
 A COVID-19 order may—
 (a)
 
-impose different measures for different circumstances and different classes of persons or things:
+impose different measures, including requirements, restrictions, directions, and conditions, for different circumstances and different classes of persons, places, premises, craft, vehicles, or other things:
 (b)
 
 apply,—
 (i)
 
-in relation to people, generally to all people in New Zealand or to any specified class of people in New Zealand:
+in relation to persons, generally to all persons in New Zealand or to any person or specified class of persons in New Zealand:
 (ii)
 
-in relation to things that can be specified under section 11, to any class of those things or to all of those things:
+in relation to places, premises, craft, vehicles, or other things, to any class or to all of them:
 (iii)
 
 in relation to anything else,—
@@ -317,41 +402,38 @@ generally throughout New Zealand:
 in any area, however described:
 (c)
 
-exempt (with or without conditions) from compliance with or the application of any provisions of the order any person or thing or class of persons or things:
+provide that any provision of a COVID-19 order (even if the provision is beneficial) does not apply in any specified circumstances, in any specified way, or to any specified persons, places, premises, craft, vehicles, or other things, or to any specified class of persons, places, premises, craft, vehicles, or other things:
 (d)
 
-authorise any person or class of persons to—
+authorise the Director-General or the chief executive, subject to any criteria or conditions specified in the order, to do any of the following things by written notice:
 (i)
 
-grant an exemption (with or without conditions) referred to in paragraph (c); or
+specify, determine, designate, define, or approve any matters, impose conditions, or give directions, required for the operation of a provision of a COVID-19 order, including matters that affect or determine the application, operation, or scope of a provision:
 (ii)
 
-authorise (with or without conditions) a specified activity that would otherwise be prohibited by the order:
+determine that any provision of a COVID-19 order (even if the provision is beneficial) does not apply in any specified circumstances, in any specified way, or to any specified persons, places, premises, craft, vehicles, or other things, or to any specified class of persons, places, premises, craft, vehicles, or other things:
 (e)
 
 if any thing can be prohibited under section 11, permit that thing but only subject to specified conditions.
 
 (2)
 
-However, a COVID-19 order—
+However, a COVID-19 order,—
 (a)
 
-may not apply only to a specific individual:
+if made by the Director-General, may apply only within the boundaries described under section 10(a):
 (b)
 
-if made by the Director-General, may apply only within the boundaries of a single territorial authority district:
-(c)
-
-may not be made under section 11(1)(b)(i) in relation to—
+may not be made under section 11(1)(c)(i) in relation to—
 (i)
 
 any premises that are, or any part of any premises that is, used solely as a private dwellinghouse:
 (ii)
 
 any premises that are, or are part of, a prison (within the meaning of section 3(1) of the Corrections Act 2004):
-(d)
+(c)
 
-may not be made under section 11(1)(b)(i) or (iii) in relation to—
+may not be made under section 11(1)(c)(i) or (iii) in relation to—
 (i)
 
 any premises within the parliamentary precincts (within the meaning of section 3 of the Parliamentary Service Act 2000):
@@ -361,7 +443,11 @@ any premises whose principal or only use is as a courtroom or Judge’s chambers
 
 (3)
 
-A breach of a condition of an exemption or a condition of an authorisation is a breach of the provision of the order to which that exemption or authorisation relates.
+If a COVID-19 order or a notice referred to in subsection (1)(d) disapplies a provision or requirement of an order, subject to compliance with a stated condition, a person who breaches the condition must be treated as breaching that provision or requirement.
+
+(4)
+
+For the purposes of subsection (1)(c) and (d), it does not matter how the disapplication of a provision of a COVID-19 order is expressed (for example, it may be expressed as an exemption, an exclusion, or an authority to do something that is otherwise prohibited by the order).
 
 Section 12 heading: amended, on 6 August 2020, by section 10 of the COVID-19 Public Health Response Amendment Act 2020 (2020 No 57).
 
@@ -378,7 +464,7 @@ A COVID-19 order may not be held invalid just because—
 it is, or authorises any act or omission that is, inconsistent with the Health Act 1956 or any other enactment relevant to the subject matter of the order; or
 (b)
 
-it confers any discretion on, or allows any matter to be determined, approved, or exempted by any person.
+it confers a discretion on any person, or allows any matter or thing to be granted, specified, determined, designated, defined, approved, or disapplied by any person, or allows a person to impose conditions or give directions, whether or not there are prescribed criteria.
 
 (2)
 
@@ -619,10 +705,10 @@ Section 20(1): amended, on 6 August 2020, by section 10 of the COVID-19 Public H
 Section 20(3): amended, on 6 August 2020, by section 10 of the COVID-19 Public Health Response Amendment Act 2020 (2020 No 57).
 21 Power to give directions
 
-An enforcement officer who has reasonable grounds to believe that a person is contravening or likely to contravene a COVID-19 order may—
+An enforcement officer who has reasonable grounds to believe that a person is contravening or likely to contravene a COVID-19 order or a rule made under section 32Q may—
 (a)
 
-direct that person to stop any activity that is contravening or likely to contravene the order:
+direct that person to stop any activity that is contravening or likely to contravene the order or rule:
 (b)
 
 direct that person to take any action to prevent or limit the extent of the person’s non-compliance.
@@ -632,17 +718,51 @@ Section 21: amended, on 6 August 2020, by section 10 of the COVID-19 Public Heal
 
 (1)
 
-Subsection (2) applies if a COVID-19 order provides for the total or partial prohibition or restriction of public access, with or without vehicles, to any road or public place within an area specified in the order for the purpose of this section.
+Subsection (2) applies if a COVID-19 order  provides for the total or partial prohibition or restriction of public access, with or without vehicles, to any road or public place within an area specified in the order for the purpose of this section.
 
 (2)
 
-For the purpose of enforcing those measures contained in the order, a constable or an enforcement officer acting under the authority of the constable may totally or partially prohibit or restrict public access, with or without vehicles, to any road or public place in that area.
+For the purpose of enforcing those measures contained in the order, a constable or an enforcement officer acting under the supervision of the constable may totally or partially prohibit or restrict public access, with or without vehicles, to any road or public place in that area.
 
 (3)
 
 For the purpose of a COVID-19 order that provides for restriction of movement, a constable may stop a vehicle.
 
+(3A)
+
+For the purpose of enforcing or monitoring compliance with a COVID-19 order that restricts movement by persons with or without vehicles, a constable may stop a vehicle at any road block or checkpoint established for that purpose.
+
 (4)
+
+(5)
+
+An enforcement officer may also stop a vehicle for the purpose stated in subsection (3A) if acting under the supervision of a constable.
+
+(6)
+
+For the purpose of subsection (5) only, enforcement officer means a person authorised in accordance with section 18 who is—
+(a)
+
+a member of the Armed Forces (as defined in section 2(1) of the Defence Act 1990):
+(b)
+
+any person whom the Commissioner recognises as being—
+(i)
+
+a Māori warden; or
+(ii)
+
+a nominated representative of an iwi organisation; or
+(iii)
+
+a Pasifika warden; or
+(iv)
+
+a community patroller.
+
+(7)
+
+Section 18 applies with any necessary modifications for the purpose of subsection (6).
 
 Sections 128 and 129 of the Search and Surveillance Act 2012 (duty to remain stopped and to provide information), with any necessary modifications, apply to the powers conferred by subsection (3) and apply in addition to the requirement to provide evidence of identity in section 19.
 
@@ -681,7 +801,7 @@ Section 24(1): amended, on 6 August 2020, by section 10 of the COVID-19 Public H
 
 A direction under this subpart may be given verbally or in writing.
 Offences
-26 Offences relating to compliance with orders
+26 Offences and infringement offences
 
 (1)
 
@@ -689,27 +809,51 @@ A person commits an offence if the person intentionally fails to comply with a C
 
 (2)
 
-A person who commits an offence against subsection (1) is liable on conviction to—
+A person who commits an offence against subsection (1) is liable on conviction to,—
 (a)
 
+for an individual,—
+(i)
+
 imprisonment for a term not exceeding 6 months; or
+(ii)
+
+a fine not exceeding $12,000:
 (b)
 
-a fine not exceeding $4,000.
+for any other person, a fine not exceeding $15,000.
 
 (3)
 
-A person commits an infringement offence if the person does anything specified as an infringement offence in a COVID-19 order.
+A person commits an infringement offence if the person—
+(a)
+
+does anything specified as an infringement offence in this Act or a COVID-19 order; or
+(b)
+
+breaches a rule made under section 32Q.
 
 (4)
 
 A person who commits an infringement offence is liable to—
 (a)
 
-an infringement fee of $300; or
+an infringement fee of,—
+(i)
+
+for an individual, $4,000 or any lesser or equal amount prescribed by regulations made under section 33; or
+(ii)
+
+for any other person, $12,000 or any lesser or equal amount prescribed by the regulations; or
 (b)
 
-a fine imposed by a court not exceeding $1,000.
+a fine imposed by a court not exceeding,—
+(i)
+
+for an individual, $12,000 or any lesser or equal amount prescribed by the regulations; or
+(ii)
+
+for any other person, $15,000 or any lesser or equal amount prescribed by the regulations.
 
 Section 26(1): amended, on 6 August 2020, by section 10 of the COVID-19 Public Health Response Amendment Act 2020 (2020 No 57).
 
@@ -736,13 +880,19 @@ knows or ought reasonably to have known that the person exercising the power is 
 
 (4)
 
-A person who commits an offence against any of subsections (1) to (3) is liable on conviction to—
+A person who commits an offence against any of subsections (1) to (3) is liable on conviction to,—
 (a)
 
+for an individual,—
+(i)
+
 imprisonment for a term not exceeding 6 months; or
+(ii)
+
+a fine not exceeding $12,000:
 (b)
 
-a fine not exceeding $4,000.
+for any other person, a fine not exceeding $15,000.
 Provisions relating to infringement offences
 28 Proceedings for infringement offences
 
@@ -758,7 +908,11 @@ be served with an infringement notice issued under section 30.
 
 (2)
 
-If an infringement notice has been issued under section 30, proceedings for the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with all necessary modifications.
+Proceedings commenced in the way described in subsection (1)﻿(a) do not require the leave of a District Court Judge or Registrar under section 21(1)﻿(a) of the Summary Proceedings Act 1957.
+
+(3)
+
+See section 21 of the Summary Proceedings Act 1957 for the procedure that applies if an infringement notice is issued.
 29 Who may issue infringement notices
 
 An enforcement officer may issue infringement notices under this Act.
@@ -795,12 +949,12 @@ The purpose of this subpart is to enable the New Zealand Government to recover M
 Section 32A: inserted, on 6 August 2020, by section 8 of the COVID-19 Public Health Response Amendment Act 2020 (2020 No 57).
 32B MIQF costs subject to recovery
 
-The relevant Minister may recommend the making of regulations under section 33A prescribing charges only if satisfied that the charges concerned relate to MIQF costs (including direct and indirect costs).
+The Minister may recommend the making of regulations under section 33A prescribing charges only if satisfied that the charges concerned relate to MIQF costs (including direct and indirect costs).
 
 Section 32B: inserted, on 6 August 2020, by section 8 of the COVID-19 Public Health Response Amendment Act 2020 (2020 No 57).
 32C Criteria for cost recovery
 
-The relevant Minister may recommend that regulations be made under section 33A only if the Minister is satisfied of the following matters:
+The Minister may recommend that regulations be made under section 33A only if the Minister is satisfied of the following matters:
 (a)
 
 the prescribed charges recover from any class of persons no more than an estimate of the actual and reasonable MIQF costs incurred in relation to that class (including both direct and indirect costs); and
